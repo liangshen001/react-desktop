@@ -3,7 +3,9 @@ export default {
     WebkitUserSelect: 'none',
     userSelect: 'none',
     cursor: 'default',
-    flex: '1'
+    flex: '1',
+    display: 'flex',
+    flexDirection: 'column'
   },
 
   tabs: {

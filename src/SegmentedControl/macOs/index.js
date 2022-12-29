@@ -53,7 +53,7 @@ class SegmentedControl extends Component {
     let content;
     if (box) {
       content = (
-        <Box style={{ marginTop: '-11px', zIndex: 0 }}>{this.renderItem()}</Box>
+        <Box style={{ marginTop: '-11px', zIndex: 0, flex: 1, display: 'flex' }}>{this.renderItem()}</Box>
       );
     } else {
       content = <div>{this.renderItem()}</div>;

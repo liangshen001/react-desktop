@@ -30,6 +30,7 @@ export default {
 
   content: {
     flex: 1,
-    padding: '24px 20px 20px 20px'
+    padding: '24px 20px 20px 20px',
+    overflow: 'hidden'
   }
 };

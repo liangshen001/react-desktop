@@ -1,12 +1,12 @@
 # <a href="http://reactdesktop.js.org/" target="_blank">![React Desktop](https://rawgit.com/gabrielbull/react-desktop/master/docs/resources/react-desktop.svg "React Desktop")</a>
 
-[![Build Status](https://travis-ci.org/gabrielbull/react-desktop.svg?branch=master)](https://travis-ci.org/gabrielbull/react-desktop)
-[![Code Climate](https://codeclimate.com/github/gabrielbull/react-desktop/badges/gpa.svg)](https://codeclimate.com/github/gabrielbull/react-desktop)
+[![Build Status](https://travis-ci.com/liangshen001/react-desktop.svg?branch=master)](https://travis-ci.com/liangshen001/react-desktop)
+[![Code Climate](https://codeclimate.com/github/liangshen001/react-desktop/badges/gpa.svg)](https://codeclimate.com/github/liangshen001/react-desktop)
 [![GitHub license](https://img.shields.io/github/license/gabrielbull/react-desktop?style=square)](https://github.com/gabrielbull/react-desktop/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/gabrielbull/react-desktop)](https://github.com/gabrielbull/react-desktop/stargazers)
-[![npm downloads](http://img.shields.io/npm/dt/react-desktop.svg)](https://www.npmjs.org/package/react-desktop)
-[![npm version](https://img.shields.io/npm/v/react-desktop.svg)](https://www.npmjs.org/package/react-desktop)
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gabrielbull/react-desktop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![GitHub stars](https://img.shields.io/github/stars/liangshen001/react-desktop)](https://github.com/liangshen001/react-desktop/stargazers)
+[![npm downloads](http://img.shields.io/npm/dt/@liangshen/react-desktop.svg)](https://www.npmjs.org/package/@liangshen/react-desktop)
+[![npm version](https://img.shields.io/npm/v/@liangshen/react-desktop.svg)](https://www.npmjs.com/package/@liangshen/react-desktop)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/liangshen001/react-desktop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 React UI Components for macOS High Sierra and Windows 10.
 

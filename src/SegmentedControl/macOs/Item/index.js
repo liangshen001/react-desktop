@@ -18,6 +18,7 @@ class Item extends Component {
     return (
       <div
         {...props}
+        style={{ display: 'flex', width: '100%' }}
       >
         {children}
       </div>

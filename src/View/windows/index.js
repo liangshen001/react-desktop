@@ -12,7 +12,8 @@ import { ThemeContext } from '../../style/theme/windows';
 
 var styles = {
   display: 'flex',
-  position: 'relative'
+  position: 'relative',
+  overflow: 'auto'
 };
 
 @Width()

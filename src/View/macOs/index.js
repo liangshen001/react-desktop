@@ -10,7 +10,8 @@ import Dimension, { dimensionPropTypes } from '../../style/dimension';
 
 var styles = {
   display: 'flex',
-  position: 'relative'
+  position: 'relative',
+  overflow: 'auto'
 };
 
 @Width()
